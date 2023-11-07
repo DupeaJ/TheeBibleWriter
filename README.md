@@ -15,10 +15,10 @@ Theebible text editor is a PWA text editor that I had the task of completing the
 - [Features](#features)
 - [Contribute](#contribute)
 - [Questions](#questions)
-
+![Screenshot](assets/photos/example.png "Screenshot")
 ## Installation
 
-steps required
+steps required,
 you can install it locally from [https://young-hamlet-66459-379f7d32a2ae.herokuapp.com/] and clicking the install. additionally you can clone the repo and run (npm install)  and running (npm run start:dev) once the packeges are loaded. That will set up theebible to run locally at consoled PORT.
 
 ## Photos
@@ -32,6 +32,7 @@ Can be used to store notes as is,  or refractored to another style.
 ## Credits
 
 Thanks to [coding-boot-camp](https://github.com/coding-boot-camp/cautious-meme) for the starter code.
+And [ascii-banners](https://manytools.org/hacker-tools/ascii-banner) for the banner text.
 
 ## License
 
