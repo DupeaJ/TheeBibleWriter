@@ -1,5 +1,5 @@
 <h1 align="center">theebible text editor</h1> 
-<br></br>
+
 ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
 <h1 align="center">Deployed at</h1>
