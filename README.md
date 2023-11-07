@@ -2,6 +2,8 @@
 <br></br>
 ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
+<h1 align="center">Deployed at [heroku](https://young-hamlet-66459-379f7d32a2ae.herokuapp.com)</h1>
+
 <h2 align="center">Description</h2>
 
 Theebible text editor is a PWA text editor that I had the task of completing the client side. 
@@ -23,7 +25,7 @@ you can install it locally from [https://young-hamlet-66459-379f7d32a2ae.herokua
 
 ## Photos
 
-<img src="assets/photos/.PNG" alt="screenshot" width="75%" height="75%">
+<img src="assets/photos/theebible.PNG" alt="screenshot" width="75%" height="75%">
 
 ## Usage
 
