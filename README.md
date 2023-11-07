@@ -2,7 +2,9 @@
 <br></br>
 ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
-<h1 align="center">Deployed at [heroku](https://young-hamlet-66459-379f7d32a2ae.herokuapp.com)</h1>
+<h1 align="center">Deployed at</h1>
+ <p align="center">[heroku](https://young-hamlet-66459-379f7d32a2ae.herokuapp.com)
+</p>
 
 <h2 align="center">Description</h2>
 
